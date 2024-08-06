@@ -1,0 +1,47 @@
+11:30:36.456 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4d654825: 27 ms
+11:30:36.498 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4acb2510: 0 ms
+11:36:13.229 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\purushottam.b01\eclipse-workspace\OpenCart-SeleniumAutomationFramework\master_runner.xml"
+11:36:13.839 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\purushottam.b01\eclipse-workspace\OpenCart-SeleniumAutomationFramework\master_runner.xml
+
+11:36:23.159 [main] INFO  testCases.Validations.TC_AccountRegistration - *******TestCase AccountRegistrationTest Execution is Started *******
+11:36:23.163 [main] INFO  testCases.Validations.TC_AccountRegistration - Landed on Homepage of the Application
+11:36:23.533 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on My account Link
+11:36:24.655 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on Register Link
+11:36:24.656 [main] INFO  testCases.Validations.TC_AccountRegistration - Providing details for Registering new Account
+11:36:27.626 [main] INFO  testCases.Validations.TC_AccountRegistration - Validating the Title information
+11:36:43.835 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\purushottam.b01\eclipse-workspace\OpenCart-SeleniumAutomationFramework\master_runner.xml"
+11:36:44.902 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\purushottam.b01\eclipse-workspace\OpenCart-SeleniumAutomationFramework\master_runner.xml
+
+11:37:09.237 [main] INFO  testCases.Validations.TC_AccountRegistration - *******TestCase AccountRegistrationTest Execution is Started *******
+11:37:09.238 [main] INFO  testCases.Validations.TC_AccountRegistration - Landed on Homepage of the Application
+11:37:09.664 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on My account Link
+11:37:10.584 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on Register Link
+11:37:10.585 [main] INFO  testCases.Validations.TC_AccountRegistration - Providing details for Registering new Account
+11:37:13.412 [main] INFO  testCases.Validations.TC_AccountRegistration - Validating the Title information
+11:40:37.708 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\purushottam.b01\eclipse-workspace\OpenCart-SeleniumAutomationFramework\cross-browser_testing_runner.xml"
+11:40:38.379 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\purushottam.b01\eclipse-workspace\OpenCart-SeleniumAutomationFramework\cross-browser_testing_runner.xml
+
+11:40:50.013 [TestNG-tests-1] INFO  testCases.Validations.TC_AccountRegistration - *******TestCase AccountRegistrationTest Execution is Started *******
+11:40:50.015 [TestNG-tests-1] INFO  testCases.Validations.TC_AccountRegistration - Landed on Homepage of the Application
+11:40:50.836 [TestNG-tests-1] INFO  testCases.Validations.TC_AccountRegistration - Clicked on My account Link
+11:40:52.388 [TestNG-tests-1] INFO  testCases.Validations.TC_AccountRegistration - Clicked on Register Link
+11:40:52.390 [TestNG-tests-1] INFO  testCases.Validations.TC_AccountRegistration - Providing details for Registering new Account
+11:40:54.044 [TestNG-tests-2] INFO  testCases.Validations.TC_AccountRegistration - *******TestCase AccountRegistrationTest Execution is Started *******
+11:40:54.045 [TestNG-tests-2] INFO  testCases.Validations.TC_AccountRegistration - Landed on Homepage of the Application
+11:40:54.459 [TestNG-tests-2] INFO  testCases.Validations.TC_AccountRegistration - Clicked on My account Link
+11:40:55.976 [TestNG-tests-2] INFO  testCases.Validations.TC_AccountRegistration - Clicked on Register Link
+11:40:55.978 [TestNG-tests-2] INFO  testCases.Validations.TC_AccountRegistration - Providing details for Registering new Account
+11:40:56.398 [TestNG-tests-1] INFO  testCases.Validations.TC_AccountRegistration - Validating the Title information
+11:40:58.777 [TestNG-tests-2] INFO  testCases.Validations.TC_AccountRegistration - Validating the Title information
+11:49:11.129 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\purushottam.b01\eclipse-workspace\OpenCart-SeleniumAutomationFramework\master_runner.xml"
+11:49:11.887 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\purushottam.b01\eclipse-workspace\OpenCart-SeleniumAutomationFramework\master_runner.xml
+
+11:49:25.050 [main] INFO  testCases.Validations.TC_AccountRegistration - *******TestCase AccountRegistrationTest Execution is Started *******
+11:49:25.051 [main] INFO  testCases.Validations.TC_AccountRegistration - Landed on Homepage of the Application
+11:49:25.763 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on My account Link
+11:49:27.117 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on Register Link
+11:49:27.120 [main] INFO  testCases.Validations.TC_AccountRegistration - Providing details for Registering new Account

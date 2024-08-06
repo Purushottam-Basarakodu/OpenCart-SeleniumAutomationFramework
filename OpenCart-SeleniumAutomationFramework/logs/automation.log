@@ -1,0 +1,21 @@
+11:49:30.667 [main] INFO  testCases.Validations.TC_AccountRegistration - Validating the Title information
+11:54:40.045 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\purushottam.b01\eclipse-workspace\OpenCart-SeleniumAutomationFramework\master_runner.xml"
+11:54:40.769 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\purushottam.b01\eclipse-workspace\OpenCart-SeleniumAutomationFramework\master_runner.xml
+
+11:54:50.905 [main] INFO  testCases.Validations.TC_AccountRegistration - *******TestCase AccountRegistrationTest Execution is Started *******
+11:54:50.907 [main] INFO  testCases.Validations.TC_AccountRegistration - Landed on Homepage of the Application
+11:54:51.244 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on My account Link
+11:54:52.366 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on Register Link
+11:54:52.366 [main] INFO  testCases.Validations.TC_AccountRegistration - Providing details for Registering new Account
+11:54:55.210 [main] INFO  testCases.Validations.TC_AccountRegistration - Validating the Title information
+16:37:01.723 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\purushottam.b01\Automation\OpenCart-SeleniumAutomationFramework\master_runner.xml"
+16:37:02.330 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\purushottam.b01\Automation\OpenCart-SeleniumAutomationFramework\master_runner.xml
+
+16:37:10.762 [main] INFO  testCases.Validations.TC_AccountRegistration - *******TestCase AccountRegistrationTest Execution is Started *******
+16:37:10.764 [main] INFO  testCases.Validations.TC_AccountRegistration - Landed on Homepage of the Application
+16:37:11.066 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on My account Link
+16:37:12.097 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on Register Link
+16:37:12.098 [main] INFO  testCases.Validations.TC_AccountRegistration - Providing details for Registering new Account
+16:37:14.902 [main] INFO  testCases.Validations.TC_AccountRegistration - Validating the Title information
