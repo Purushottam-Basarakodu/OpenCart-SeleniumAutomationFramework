@@ -1,0 +1,41 @@
+package testCases.Validations;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import pageObjects.HomePage;
+import pageObjects.LoginPage;
+import pageObjects.MyAccountPage;
+import testBase.commonMethods.BaseClass;
+
+public class TC_LoginFunction extends BaseClass {
+	
+	@Test
+	public void LoginTestcase()
+	{
+		logger.info("***Login Functionality test case is started ");
+		
+		try {
+		HomePage homepage=new HomePage(driver);
+		homepage.clickOnMyaccount();
+		homepage.clickOnLogin();
+		
+		
+		LoginPage loginpage=new LoginPage(driver);
+		loginpage.setEmail(p.getProperty("login_email"));
+		loginpage.setPassword(p.getProperty("login_pwd"));
+		loginpage.ClickOnLogin();
+		
+		MyAccountPage myacc=new MyAccountPage(driver);
+		Boolean expectedresult=myacc.IsMyAccountDisplayed();
+		
+		Assert.assertTrue(expectedresult);
+		}
+		catch(Exception e)
+		{
+			Assert.fail();
+		}
+		
+	}
+
+}

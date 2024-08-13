@@ -17,7 +17,7 @@ import testBase.commonMethods.BaseClass;
 public class TC_AccountRegistration extends BaseClass{
 	
 	
-	@Test
+	@Test(groups= {"Regression","Master"})
 	public void AccountRegistrationTest()
 	{
 		logger.info("*******TestCase AccountRegistrationTest Execution is Started *******");
