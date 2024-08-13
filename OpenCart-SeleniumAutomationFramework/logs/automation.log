@@ -1,43 +1,10 @@
-11:58:53.698 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is started 
-11:58:53.704 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logging into Homepage
-11:58:54.075 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Landed on Login page and providing login credentials
-11:58:54.769 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logged into My account Page successfully
-11:58:55.297 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is completed 
-11:58:55.305 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is started 
-11:58:55.307 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logging into Homepage
-11:58:55.627 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Landed on Login page and providing login credentials
-11:58:56.336 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logged into My account Page successfully
-11:58:56.763 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is completed 
-11:58:56.767 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is started 
-11:58:56.768 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logging into Homepage
-11:58:57.091 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Landed on Login page and providing login credentials
-11:58:57.813 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logged into My account Page successfully
-11:58:58.269 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is completed 
-11:58:58.272 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is started 
-11:58:58.272 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logging into Homepage
-11:58:58.573 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Landed on Login page and providing login credentials
-11:58:59.186 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logged into My account Page successfully
-11:59:09.239 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is completed 
-11:59:41.882 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\purushottam.b01\Automation\OpenCart-SeleniumAutomationFramework\grouping_runner.xml"
-11:59:42.148 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\purushottam.b01\Automation\OpenCart-SeleniumAutomationFramework\grouping_runner.xml
-
-12:00:32.193 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\purushottam.b01\Automation\OpenCart-SeleniumAutomationFramework\grouping_runner.xml"
-12:00:32.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\purushottam.b01\Automation\OpenCart-SeleniumAutomationFramework\grouping_runner.xml
-
-12:01:02.717 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\purushottam.b01\Automation\OpenCart-SeleniumAutomationFramework\grouping_runner.xml"
-12:01:02.995 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\purushottam.b01\Automation\OpenCart-SeleniumAutomationFramework\grouping_runner.xml
-
-12:01:08.363 [main] INFO  testCases.Validations.TC_LoginFunction - ***Login Functionality test case is started 
-12:01:08.364 [main] INFO  testCases.Validations.TC_LoginFunction - Logging into Homepage
-12:01:08.814 [main] INFO  testCases.Validations.TC_LoginFunction - Landed on Login page and providing login credentials
-12:01:09.690 [main] INFO  testCases.Validations.TC_LoginFunction - Logged into My account Page successfully
-12:01:09.726 [main] INFO  testCases.Validations.TC_LoginFunction - ***Login Functionality test case is completed 
-12:01:14.629 [main] INFO  testCases.Validations.TC_AccountRegistration - *******TestCase AccountRegistrationTest Execution is Started *******
-12:01:14.630 [main] INFO  testCases.Validations.TC_AccountRegistration - Landed on Homepage of the Application
-12:01:14.724 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on My account Link
-12:01:15.676 [main] INFO  testCases.Validations.TC_AccountRegistration - Clicked on Register Link
-12:01:15.676 [main] INFO  testCases.Validations.TC_AccountRegistration - Providing details for Registering new Account
-12:01:16.750 [main] INFO  testCases.Validations.TC_AccountRegistration - Validating the Title information
+12:45:59.433 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is started 
+12:45:59.443 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logging into Homepage
+12:45:59.722 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Landed on Login page and providing login credentials
+12:46:00.443 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logged into My account Page successfully
+12:46:00.923 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is completed 
+12:46:00.927 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is started 
+12:46:00.928 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logging into Homepage
+12:46:01.238 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Landed on Login page and providing login credentials
+12:46:01.898 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - Logged into My account Page successfully
+12:46:11.932 [main] INFO  testCases.Validations.TC_LoginFunctionUsingDDT - ***Login Functionality test case is completed 
